@@ -8,7 +8,7 @@ I’m a passionate robotics student working on autonomous navigation, path plann
 🔹 Autonomous Car Lane-Keeping System ( Control System )
 
 ## 🔧 Skills & Technologies  
-- **Motion Planning               :**            A*, RRT, MSACO, MPPI  
+- **Motion Planning:**            A*, RRT, MSACO, MPPI  
 - **Localization & Mapping:**     Particle Filters SLAM  
 - **Simulation & Control:**       ROS, Gazebo, gym-neu-racing  
 - **Programming:**                Python, C/C++, Linux, NumPy, G and M codes (for CNC VMC machines)
