@@ -18,11 +18,10 @@ I’m a passionate robotics student working on autonomous navigation, path plann
 🏎️ [MPPI-Navigation](https://github.com/yourusername/MPPI-Navigation) – Model Predictive Path Integral control for racing  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chandrapatel16/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/yourusername)  
 [![Website](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=google-chrome)](https://yourwebsite.com)  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/chandrapatel16/) 
 
 
 <!---
